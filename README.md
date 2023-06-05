@@ -14,3 +14,8 @@ Remove old core:
 ```
 apt --purge autoremove
 ```
+
+Test
+```
+curl -Lso- bench.sh | bash
+```
