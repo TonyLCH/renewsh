@@ -1,4 +1,4 @@
-run:
+Run:
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/TonyLCH/renewsh/main/renews-domain.sh)
 ```
